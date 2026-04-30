@@ -6,8 +6,12 @@
 
 `oreo`
 
-https://img.shields.io/badge/Kali_Linux-Kali_Linux-557C94?style=plastic
-https://img.shields.io/badge/Kali_Linux-Kali_Linux-557C94?style=flat
-https://img.shields.io/badge/Kali_Linux-Kali_Linux-557C94?style=flat-square
-https://img.shields.io/badge/Kali_Linux-Kali_Linux-557C94?style=for-the-badge
-https://img.shields.io/badge/Kali_Linux-Kali_Linux-557C94?style=social
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Kali%20Linux-1793D1?style=flat&logo=kali-linux&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Kali%20Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Kali%20Linux-1793D1?style=plastic&logo=kali-linux&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Kali%20Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Kali%20Linux-1793D1?style=social&logo=kali-linux&logoColor=1793D1)
