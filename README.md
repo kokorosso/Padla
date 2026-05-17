@@ -1,1 +1,3 @@
-[ {\color{#ffffff}Чистый белый} ]GROK_BLOCK_LATEX
+
+djdkdkdkdk
+[ {\color{#ffffff}white} ]GROK_BLOCK_LATEX
